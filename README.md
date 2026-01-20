@@ -2,8 +2,6 @@
 
 A Python storytelling chatbot that generates stories through a chat-style experience.
 
-> Repo tagline: “A story telling chatbot” / “A chat bot built in python to generate stories”.
-
 ---
 
 ## What’s in this repo
